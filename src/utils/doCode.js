@@ -1,1 +1,1 @@
-export const hell = () => console.log("do, code!");
+export const hell = () => console.log("Do, code!");
