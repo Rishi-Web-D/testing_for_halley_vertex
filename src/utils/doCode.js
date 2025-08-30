@@ -1,0 +1,1 @@
+export const hell = () => console.log("do, code!");
